@@ -1,0 +1,36 @@
+ body{
+ background-image: url(blueline.jpg.jpg);
+ height: 100%;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.h4 { 
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    padding: 50px 12px 30px 12px;
+}
+.h1 {
+ text-align: center;
+ text-shadow: 2px 2px 5px rgb(253, 161, 253);
+ color: rgb(248, 244, 246);
+ font-family: cursive; 
+ padding-top: 0;
+ padding-bottom: 1px;
+ font-weight: 90%;
+}
+.para {
+    height:100px;
+    background-color:rgb(6, 92, 104);
+    font-size:26px;
+    color:rgb(149, 250, 236);
+    margin-top: 15%;
+    padding-bottom: 0;
+    text-align: left;
+}
+.parallax {
+    background-attachment: scroll;
+}
+ 
